@@ -1,2 +1,2 @@
-# React-Drip
+# react-drip
 react drip
